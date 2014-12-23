@@ -86,7 +86,7 @@ board.on("ready", function() {
 		{
 			L3.low();
 		}	
-		if(r>UMBRAL4)
+		if(l>UMBRAL4)
 		{
 			L4.high();
 		}
@@ -94,7 +94,7 @@ board.on("ready", function() {
 		{
 			L4.low();
 		}
-		if(r>UMBRAL5)
+		if(l>UMBRAL5)
 		{
 			L5.high();
 		}
