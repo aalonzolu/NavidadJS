@@ -3,4 +3,4 @@ NavidadJS
 
 Luces navideñas con Arduino &amp; NodeJs
 
-Mas detalles y video demo en http://blog.spirax.com.gt/arduino/arbol-navideno-con-leds/
+iVdeo demo en https://www.youtube.com/watch?v=xiMZFinI4CQ
